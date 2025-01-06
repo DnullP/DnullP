@@ -12,7 +12,7 @@
 
 ### Languages & Tools
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnullp&theme=onedark&layout=donut-vertical)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnullp&theme=tokyonight&layout=donut-vertical)
 
 - **Languages**: Python, C++, Go
 - **Development Tools**: vscode, WSL, docker
