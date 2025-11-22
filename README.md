@@ -32,7 +32,6 @@ src="https://img.shields.io/github/followers/DnullP?logo=github&style=for-the-ba
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnullP&theme=tokyonight&layout=donut-vertical&hide=html,css,javascript"
       alt="Top Languages"
-      height="210"
     />
   </a>
 </p>
@@ -45,7 +44,6 @@ src="https://img.shields.io/github/followers/DnullP?logo=github&style=for-the-ba
         <img
           src="https://github-readme-stats.vercel.app/api?username=DnullP&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ef4444&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true"
           alt="DnullP's GitHub stats"
-          height="150"
         />
       </a>
     </td>
@@ -54,7 +52,6 @@ src="https://img.shields.io/github/followers/DnullP?logo=github&style=for-the-ba
         <img
           src="https://github-readme-streak-stats.herokuapp.com/?user=DnullP&stroke=ef4444&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ef4444&currStreakLabel=f97316&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true"
           alt="DnullP's GitHub streak stats"
-          height="150"
         />
       </a>
     </td>
