@@ -21,13 +21,54 @@ A lifelong learners who love technology.
 <p align="left"> <a href="https://www.github.com/DnullP" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 <a href="https://www.github.com/DnullP" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DnullP?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DnullP"><img src="https://github-readme-stats.vercel.app/api?username=DnullP&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ef4444&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="DnullP's GitHub stats" /></a>
+<!-- Top Languages 单独一块，放在最上面 -->
+<p align="center">
+  <a href="http://www.github.com/DnullP">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnullP&theme=tokyonight&layout=donut-vertical&hide=html,css,javascript"
+      alt="Top Languages"
+      height="210"
+    />
+  </a>
+</p>
 
-<a href="http://www.github.com/DnullP"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DnullP&stroke=ef4444&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ef4444&currStreakLabel=f97316&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+<!-- 下面两个面板用表格横向排布，整体更紧凑 -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="http://www.github.com/DnullP">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=DnullP&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ef4444&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true"
+          alt="DnullP's GitHub stats"
+          height="150"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="http://www.github.com/DnullP">
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=DnullP&stroke=ef4444&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ef4444&currStreakLabel=f97316&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true"
+          alt="DnullP's GitHub streak stats"
+          height="150"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnullp&theme=tokyonight&layout=donut-vertical&hide=html,css,javascript)
+### Activity
+
+<p align="left">
+  <a href="https://github.com/DnullP">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=DnullP&theme=tokyo-night&hide_border=true"
+      alt="Activity Graph"
+    />
+  </a>
+</p>
 
