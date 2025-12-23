@@ -29,10 +29,9 @@ src="https://img.shields.io/github/followers/DnullP?logo=github&style=for-the-ba
 <!-- Top Languages 单独一块，放在最上面 -->
 <p align="center">
   <a href="http://www.github.com/DnullP">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnullP&theme=tokyonight&layout=donut-vertical&hide=html,css,javascript"
-      alt="Top Languages"
-    />
+
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+    
   </a>
 </p>
 
