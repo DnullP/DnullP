@@ -51,25 +51,33 @@ Activities
 
 <div align="center" style="display: flex; align-items: flex-start; justify-content: center;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="100" height="100" /></div>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="display: flex; flex-direction: column; align-items: flex-start;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="82" height="82" />
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="82" height="82" />
-    </div>
-    <div>
-        <a href="http://www.github.com/DnullP">
-            <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dnullp&hide=html,css,stylus&theme=radical&hide_border=true&layout=donut" alt="DnullP's Top Languages" />
-        </a>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: flex-end;">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="82" height="82" />
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="82" height="82" />
-    </div>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td align="left" valign="top" style="border:none;">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="82" height="82" /><br/>
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="82" height="82" />
+        </td>
+        <td align="center" valign="middle" style="border:none;">
+            <a href="http://www.github.com/DnullP">
+                <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dnullp&hide=html,css,stylus&theme=radical&hide_border=true&layout=donut" alt="DnullP's Top Languages" />
+            </a>
+        </td>
+        <td align="right" valign="top" style="border:none;">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="82" height="82" /><br/>
+            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="82" height="82" />
+        </td>
+    </tr>
+</table>
+
+<div align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="90" height="90" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="90" height="90" />
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="90" height="90" />
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="90" height="90" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="90" height="90" />
+    <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="90" height="90" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="90" height="90" />
 </div>
-
-<div align="center" style="display: flex; align-items: flex-start; justify-content: center;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="92" height="92" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="92" height="92" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="92" height="92" /></div>
-
-<div align="center" style="display: flex; align-items: flex-start; justify-content: center;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="93" height="93" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="93" height="93" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="93" height="93" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="93" height="93" /></div>
 
 
 <div align="center">
